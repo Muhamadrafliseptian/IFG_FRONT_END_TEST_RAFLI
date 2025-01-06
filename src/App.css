@@ -18,6 +18,10 @@ h2 {
   margin-bottom: 15px;
 }
 
+.address {
+  margin-bottom: 15px;
+}
+
 .form-row input {
   flex: 1;
 }

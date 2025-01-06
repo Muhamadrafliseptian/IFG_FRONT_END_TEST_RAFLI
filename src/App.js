@@ -29,7 +29,7 @@ function App() {
               <input placeholder="Last name" />
               <input placeholder="Age" type="number" />
             </div>
-            <input placeholder="Address" />
+            <input placeholder="Address" className='address' />
             <div className="form-row">
               <input placeholder="Place of work" />
               <input placeholder="Job title" />
